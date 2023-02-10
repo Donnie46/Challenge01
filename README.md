@@ -1,19 +1,22 @@
-# <Horiseon Website Code Refactoring>
+# Horiseoon Code Refactoring
 
-## Challenge 01 Refactoring Horiseon Website
+## Description of work performed
 
-I was given old source code for a company website that needed refactoring. I applied the following changes to update the source code.
+I received some old source code for a company website that was in need of refactoring. The following was applied to update the code.
 
-- Added semantic elements, to clean up the old code, and alt attributes to the images for screen reader accessibility.
-- Gave the attributes clear descriptions for better search engine optimization. 
-- Combined and consolidated the CSS code to make navigation and future changes easier.
+- Combined/Consolodated the CSS code to make navigation and changes easier.
+- Added sementic elements by reclassifying some of the elements.
+- Added alt attributes to some image elements.
+- Added multiple comment messages to CSS styling.
+- All updates were accomplished without changing mockup provided in instructions. 
 
-I learned to carefully go through the source code, making incremental changes to prevent major CSS issues that could stem from broken code.
+Learned to meticulously go through source code and made the necessary changes to prevent future issues.
 
 ## Screenshot of page
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.] (./assets/images/horiseon-home-page.png)
+![The-Horiseon-landing-page-including-a-header-with-nav-links,-main-sections-with-images,-aside-sections-with-images,-and-a-footer](.\assets\01-html-css-git-homework-demo.png)
+
 
 ## License
 
-Refer to license listed in the repository.
+Refer to the license listed in the repo.

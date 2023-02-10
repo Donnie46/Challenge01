@@ -1,4 +1,4 @@
-# Horiseoon Code Refactoring
+# Horiseon Code Refactoring
 
 ## Description of work performed
 
